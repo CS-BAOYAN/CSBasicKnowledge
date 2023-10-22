@@ -13,7 +13,8 @@
 
 ## Conda & Docker
 ### Conda
-- Miniconda+Jupyter 小白设置指南(Windows): [[zhihu](https://zhuanlan.zhihu.com/p/449750184)]
+- miniconda环境配置以及jupyter notebook使用指南[[zhihu: miniconda+jupyter]https://zhuanlan.zhihu.com/p/449750184]
+
 ### Docker
 - Docker-从入门到实践: [[zh-cn](https://docker-practice.github.io/zh-cn/)]
 
