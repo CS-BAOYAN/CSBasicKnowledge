@@ -11,6 +11,10 @@
   - [Github: huggingface-go](https://github.com/xieincz/huggingface-go)
   - [AI快站](https://aifasthub.com/): 10MB/S下载的带宽资源
 
+## Conda & Docker
+### Conda
+### Docker
+- Docker-从入门到实践: [[zh-cn](https://docker-practice.github.io/zh-cn/)]
 ## MISC
 - 如何设置代理: [[PDF](./如何设置代理.pdf)]
 
