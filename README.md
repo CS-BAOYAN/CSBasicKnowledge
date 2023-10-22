@@ -13,6 +13,7 @@
 
 ## Conda & Docker
 ### Conda
+- miniconda环境配置以及jupyter notebook使用指南[[miniconda+jupyter]https://zhuanlan.zhihu.com/p/449750184]
 ### Docker
 - Docker-从入门到实践: [[zh-cn](https://docker-practice.github.io/zh-cn/)]
 ## MISC
