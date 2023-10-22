@@ -13,9 +13,14 @@
 
 ## Conda & Docker
 ### Conda
+- Miniconda+Jupyter 小白设置指南(Windows): [[zhihu](https://zhuanlan.zhihu.com/p/449750184)]
 ### Docker
 - Docker-从入门到实践: [[zh-cn](https://docker-practice.github.io/zh-cn/)]
+
+  
 ## MISC
 - 如何设置代理: [[PDF](./如何设置代理.pdf)]
+- 耗时很长的程序忘加nohup就运行了怎么办？: [[zhihu](https://www.zhihu.com/question/586298694/answer/2991647868)]
+
 
 
