@@ -21,13 +21,15 @@
 ## How to Debug
 ### pdb
 ### debugpy
+- vscode python设置debug: [[zhihu](https://www.zhihu.com/question/35022733/answer/3178874019)]
+
 ### vscode debug setting
 
 ## Linux常用指令
 
 ## Conda & Docker
 ### Conda
-- miniconda环境配置以及jupyter notebook使用指南[[zhihu: miniconda+jupyter]https://zhuanlan.zhihu.com/p/449750184]
+- miniconda环境配置以及jupyter notebook使用指南: [[zhihu](https://zhuanlan.zhihu.com/p/449750184)]
 
 ### Docker
 - Docker-从入门到实践: [[zh-cn](https://docker-practice.github.io/zh-cn/)]
