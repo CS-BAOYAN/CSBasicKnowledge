@@ -39,5 +39,6 @@
 - 如何设置代理: [[PDF](./如何设置代理.pdf)]
 - 耗时很长的程序忘加nohup就运行了怎么办？: [[zhihu](https://www.zhihu.com/question/586298694/answer/2991647868)]
 
-
+- LaTeX教程，篇幅较大，但是好用：\[[官网](https://ctan.org/tex-archive/info/lshort/chinese)\]\[[镜像](http://mirrors.cqu.edu.cn/CTAN/info/lshort/chinese/lshort-zh-cn.pdf)\]\[[Github](https://github.com/CTeX-org/lshort-zh-cn)\]
+- 约定式提交，或许可以规范你的Github提交：\[[link](https://www.conventionalcommits.org/zh-hans/v1.0.0/)\]
 
