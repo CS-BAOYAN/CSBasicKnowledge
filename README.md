@@ -13,6 +13,9 @@
   - [AI快站](https://aifasthub.com/): 10MB/S下载的带宽资源
 
 ## Shell
+
+- Linux命令搜索:[[zh-cn](https://jaywcjlove.gitee.io/linux-command/)]
+
 ### Vim
 
 ## How to Debug
