@@ -12,6 +12,15 @@
   - [Github: huggingface-go](https://github.com/xieincz/huggingface-go)
   - [AI快站](https://aifasthub.com/): 10MB/S下载的带宽资源
 
+
+
+### Tutorials
+
+- 一些国内的广为人知的视频教程，适合边睡边看：
+  - 跟李沐学AI（bilibili）
+  - 耿直哥（bilibili）
+- 一篇不太专业的如何读论文的小文档：\[[pdf](./论文粗读攻略.md)\]
+
 ## Shell
 
 - Linux命令搜索:[[zh-cn](https://jaywcjlove.gitee.io/linux-command/)]
