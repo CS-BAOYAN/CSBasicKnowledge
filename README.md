@@ -33,6 +33,7 @@
 
 ## How to Debug
 ### pdb
+- 10分钟教程掌握Python调试器pdb: [[zhihu](https://zhuanlan.zhihu.com/p/37294138)]
 ### debugpy
 - vscode python设置debug: [[zhihu](https://www.zhihu.com/question/35022733/answer/3178874019)]
 
@@ -56,3 +57,4 @@
 - 约定式提交，或许可以规范你的Github提交：\[[zh-cn](https://www.conventionalcommits.org/zh-hans/v1.0.0/)\]
 
 - 你的指法真的标准吗？打字练习一下：\[[zh-cn](https://qwerty.kaiyi.cool/)\]
+- 利用学生身份可以享受到的相关学生优惠权益: [[Github](https://github.com/ivmm/Student-resources)]
