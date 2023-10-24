@@ -15,6 +15,7 @@
 - 高速下载 huggingface 的超大体积的模型和数据集:
   - [Github: huggingface-go](https://github.com/xieincz/huggingface-go)
   - [AI快站](https://aifasthub.com/): 10MB/S下载的带宽资源
+  - [国内huggingface加速镜像站](https://hf-mirror.com)
 
 
 
