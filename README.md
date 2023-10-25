@@ -24,6 +24,7 @@
   - 耿直哥（bilibili）
 - 一篇不太专业的如何读论文的小文档：\[[pdf](./论文粗读攻略.md)\]
 - paper with code：[[page](https://paperswithcode.com/)]
+- 算法知识应知应会：[[Github](https://github.com/nosuggest/Reflection_Summary)]
 
 ## Shell
 
