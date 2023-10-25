@@ -17,25 +17,26 @@
   - [AI快站](https://aifasthub.com/): 10MB/S下载的带宽资源
   - [国内huggingface加速镜像站](https://hf-mirror.com)
 
-
-
 ### Tutorials
 
 - 一些国内的广为人知的视频教程，适合边睡边看：
   - 跟李沐学AI（bilibili）
   - 耿直哥（bilibili）
 - 一篇不太专业的如何读论文的小文档：\[[pdf](./论文粗读攻略.md)\]
+- paper with code：[[page](https://paperswithcode.com/)]
 
 ## Shell
 
 - Linux命令搜索:[[zh-cn](https://jaywcjlove.gitee.io/linux-command/)]
+- explainshell: [[page](https://explainshell.com/)]
 
 ## Vim
 
-## Git
+## Git & Github
 - 约定式提交，或许可以规范你的Github提交：\[[zh-cn](https://www.conventionalcommits.org/zh-hans/v1.0.0/)\]
 - Commit message 和 Change log 编写指南：[[zh-cn](https://ruanyifeng.com/blog/2016/01/commit_message_change_log.html)]
 - commitizen/cz-cli: [[Github](https://github.com/commitizen/cz-cli)]
+- 第一次参与开源项目，如何提交pr: [[Github: zh-cn](https://github.com/firstcontributions/first-contributions/blob/main/translations/README.zh-cn.md)]
 
 ## How to Debug
 ### pdb
@@ -60,6 +61,9 @@
 
 ## CUDA
 - 切换CUDA版本步骤: [[CSDN](https://blog.csdn.net/u013905398/article/details/103799621)]
+
+## System
+- 机器学习系统：设计和实现: [[page](https://openmlsys.github.io/)] [[Github: zh-cn](https://github.com/openmlsys/openmlsys-zh)]
 ## MISC
 - 如何设置代理: [[PDF](./如何设置代理.pdf)]
 - 耗时很长的程序忘加nohup就运行了怎么办？: [[zhihu](https://www.zhihu.com/question/586298694/answer/2991647868)]
@@ -68,3 +72,4 @@
 - 你的指法真的标准吗？打字练习一下：\[[zh-cn](https://qwerty.kaiyi.cool/)\]
 - 利用学生身份可以享受到的相关学生优惠权益: [[Github](https://github.com/ivmm/Student-resources)]
 - 论文常用词汇i.e.，e.g.，etc.，viz.，et al.的前世今生: [[zhihu](https://zhuanlan.zhihu.com/p/63640148)]
+- 图吧工具箱: [[page](http://www.tbtool.cn/)]
