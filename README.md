@@ -31,9 +31,11 @@
 - 机器学习入门指南: [[zh-cn](https://tjxj.github.io/)]
 - CS229机器学习技巧和秘诀速查表: [[zh-cn](https://stanford.edu/~shervine/l/zh/teaching/cs-229/cheatsheet-machine-learning-tips-and-tricks#)]
 - 科学空间(苏剑林): [[zh-cn](https://spaces.ac.cn/)]
+- 深度学习500问: [[Github: zh-cn](https://github.com/scutan90/DeepLearning-500-questions)]
 
 ### prompts
 - ChatGPT 中文调教指南: [[Github: zh-cn](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)]
+- Awesome ChatGPT Prompts: [[Github: en](https://github.com/f/awesome-chatgpt-prompts)]
 
 ## Shell
 
@@ -84,7 +86,9 @@
   - nvitop: [[Githun](https://github.com/XuehaiPan/nvitop)]
   - gpustat: [[Github](https://github.com/wookayin/gpustat)]
   - nvidia-smi
-
+## CV & Resume
+- Awesome Resume for Chinese: [[Github: zh-cn](https://github.com/dyweb/awesome-resume-for-chinese)]
+- cv_emuluate: Academic CVs that you can (hopefully) emulate: [[Github](https://github.com/hongtaoh/cv_emulate)]
 ## System
 - 机器学习系统：设计和实现: [[page](https://openmlsys.github.io/)] [[Github: zh-cn](https://github.com/openmlsys/openmlsys-zh)]
 ## MISC
