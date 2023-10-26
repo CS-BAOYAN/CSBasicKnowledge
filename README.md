@@ -33,6 +33,9 @@
 
 ## Vim
 
+- `vimtutor` 关于 vim 最基础的教程，安装 vim 之后自带的命令
+- 聪明地学习 vim: [[GitHub: en](https://github.com/iggredible/Learn-Vim)]/[[GitHub: zh-cn](https://github.com/wsdjeg/Learn-Vim_zh_cn/tree/88c823118735d1a39c3e04451304c1c2c91a5ac3)]
+
 ## Git & Github
 - 约定式提交，或许可以规范你的Github提交：\[[zh-cn](https://www.conventionalcommits.org/zh-hans/v1.0.0/)\]
 - Commit message 和 Change log 编写指南：[[zh-cn](https://ruanyifeng.com/blog/2016/01/commit_message_change_log.html)]
@@ -49,9 +52,12 @@
 
 ## Linux常用指令
 
+- 中科大 LUG 基础 Linux 教程: [[zh-cn](https://101.lug.ustc.edu.cn/)]
+
 ## Conda & Docker
 ### Conda
 - miniconda环境配置以及jupyter notebook使用指南: [[zhihu](https://zhuanlan.zhihu.com/p/449750184)]
+- micromamba: miniconda 的平替，同时依赖解析等基础操作更快: [[GitHub](https://github.com/mamba-org/mamba)]
 
 ### Docker
 - Docker-从入门到实践: [[zh-cn](https://docker-practice.github.io/zh-cn/)]
