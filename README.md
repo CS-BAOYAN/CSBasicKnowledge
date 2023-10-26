@@ -3,6 +3,7 @@
 
 ## CS
 - CS 自学指南: [[zh-cn](https://github.com/PKUFlyingPig/cs-self-learning)] [[en](https://github.com/PKUFlyingPig/Self-learning-Computer-Science)]
+- OI Wiki(ACMer必备): [[zh-cn](https://oi-wiki.org/)] 
 - The Missing Semester of Your CS Education: [[en](https://missing.csail.mit.edu/)] [[zh-cn](https://missing-semester-cn.github.io/)]
 - CS免费编程书籍：\[[Github](https://github.com/yinhonggen/free-programming-books-zh_CN)\]
 - Crash Course Computer Science(个人觉得值得观看的计算机知识速成科普课程): [[Origin_YouTube](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulI)] [[CN_Bilibili](BV1EW411u7th)] [[CN_Source](https://github.com/1c7/crash-course-computer-science-chinese)]
@@ -26,11 +27,20 @@
 - 一篇不太专业的如何读论文的小文档：\[[pdf](./论文粗读攻略.md)\]
 - paper with code：[[page](https://paperswithcode.com/)]
 - 算法知识应知应会：[[Github](https://github.com/nosuggest/Reflection_Summary)]
+- Microsoft AI-EDU: [[zh-cn](https://microsoft.github.io/ai-edu/index.html)]
+- 机器学习入门指南: [[zh-cn](https://tjxj.github.io/)]
+- CS229机器学习技巧和秘诀速查表: [[zh-cn](https://stanford.edu/~shervine/l/zh/teaching/cs-229/cheatsheet-machine-learning-tips-and-tricks#)]
+- 科学空间(苏剑林): [[zh-cn](https://spaces.ac.cn/)]
+
+### prompts
+- ChatGPT 中文调教指南: [[Github: zh-cn](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)]
 
 ## Shell
 
 - Linux命令搜索:[[zh-cn](https://jaywcjlove.gitee.io/linux-command/)]
 - explainshell: [[page](https://explainshell.com/)]
+- Bash scripting cheatsheet: [[en](https://devhints.io/bash)]
+- The art of command line: [[Github: zh-cn](https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md)]
 
 ## Vim
 
@@ -38,6 +48,7 @@
 - 聪明地学习 vim: [[GitHub: en](https://github.com/iggredible/Learn-Vim)]/[[GitHub: zh-cn](https://github.com/wsdjeg/Learn-Vim_zh_cn/tree/88c823118735d1a39c3e04451304c1c2c91a5ac3)]
 
 ## Git & Github
+- Learn Git Branching(强推): [[zh-cn](https://learngitbranching.js.org/?locale=zh_CN)]
 - 约定式提交，或许可以规范你的Github提交：\[[zh-cn](https://www.conventionalcommits.org/zh-hans/v1.0.0/)\]
 - Commit message 和 Change log 编写指南：[[zh-cn](https://ruanyifeng.com/blog/2016/01/commit_message_change_log.html)]
 - commitizen/cz-cli: [[Github](https://github.com/commitizen/cz-cli)]
@@ -67,8 +78,12 @@
   
   按 `Ctrl-p Ctrl-q`。如果按 `Ctrl-c` 往往会让容器内应用进程终止，进而会终止容器，如果没有在IDE里面没有成功，请去除IDE对应的快捷键。
 
-## CUDA
+## CUDA & Nvidia
 - 切换CUDA版本步骤: [[CSDN](https://blog.csdn.net/u013905398/article/details/103799621)]
+- 查看你的显卡的情况:
+  - nvitop: [[Githun](https://github.com/XuehaiPan/nvitop)]
+  - gpustat: [[Github](https://github.com/wookayin/gpustat)]
+  - nvidia-smi
 
 ## System
 - 机器学习系统：设计和实现: [[page](https://openmlsys.github.io/)] [[Github: zh-cn](https://github.com/openmlsys/openmlsys-zh)]
@@ -82,3 +97,5 @@
 - 论文常用词汇i.e.，e.g.，etc.，viz.，et al.的前世今生: [[zhihu](https://zhuanlan.zhihu.com/p/63640148)]
 - 图吧工具箱: [[page](http://www.tbtool.cn/)]
 - 文献管理软件Zotero安装设置教程及各插件配置（知网支持、影响因子、被引数: [[zh-cn](https://www.starryfk.com/tec/zotero-settings-and-plugins-for-literature-management-software.html)]
+- 阿里巴巴矢量图标库: [[page](https://www.iconfont.cn/)]
+- 程序员延寿指南: [[Github: zh-cn](https://github.com/geekan/HowToLiveLonger)]
