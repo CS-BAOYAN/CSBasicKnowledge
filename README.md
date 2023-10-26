@@ -74,3 +74,4 @@
 - 利用学生身份可以享受到的相关学生优惠权益: [[Github](https://github.com/ivmm/Student-resources)]
 - 论文常用词汇i.e.，e.g.，etc.，viz.，et al.的前世今生: [[zhihu](https://zhuanlan.zhihu.com/p/63640148)]
 - 图吧工具箱: [[page](http://www.tbtool.cn/)]
+- 文献管理软件Zotero安装设置教程及各插件配置（知网支持、影响因子、被引数: [[zh-cn](https://www.starryfk.com/tec/zotero-settings-and-plugins-for-literature-management-software.html)]
