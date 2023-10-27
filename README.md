@@ -91,11 +91,15 @@
 - cv_emuluate: Academic CVs that you can (hopefully) emulate: [[Github](https://github.com/hongtaoh/cv_emulate)]
 ## System
 - 机器学习系统：设计和实现: [[page](https://openmlsys.github.io/)] [[Github: zh-cn](https://github.com/openmlsys/openmlsys-zh)]
+
+## LaTeX & Markdown
+- latex codebook: [[Github: zh-cn](https://github.com/xinychen/latex-cookbook)]
+- LaTeX教程，篇幅较大，但是好用：\[[官网](https://ctan.org/tex-archive/info/lshort/chinese)\]\[[镜像](http://mirrors.cqu.edu.cn/CTAN/info/lshort/chinese/lshort-zh-cn.pdf)\]\[[Github](https://github.com/CTeX-org/lshort-zh-cn)\]
+
 ## MISC
 - 如何设置代理: [[PDF](./如何设置代理.pdf)]
 - 耗时很长的程序忘加nohup就运行了怎么办？: [[zhihu](https://www.zhihu.com/question/586298694/answer/2991647868)]
 - linux 多线程下载工具-aria2c: [[zhihu.com](https://zhuanlan.zhihu.com/p/637294044)]
-- LaTeX教程，篇幅较大，但是好用：\[[官网](https://ctan.org/tex-archive/info/lshort/chinese)\]\[[镜像](http://mirrors.cqu.edu.cn/CTAN/info/lshort/chinese/lshort-zh-cn.pdf)\]\[[Github](https://github.com/CTeX-org/lshort-zh-cn)\]
 - 你的指法真的标准吗？打字练习一下：\[[zh-cn](https://qwerty.kaiyi.cool/)\]
 - 利用学生身份可以享受到的相关学生优惠权益: [[Github](https://github.com/ivmm/Student-resources)]
 - 论文常用词汇i.e.，e.g.，etc.，viz.，et al.的前世今生: [[zhihu](https://zhuanlan.zhihu.com/p/63640148)]
