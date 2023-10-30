@@ -32,6 +32,7 @@
 - CS229机器学习技巧和秘诀速查表: [[zh-cn](https://stanford.edu/~shervine/l/zh/teaching/cs-229/cheatsheet-machine-learning-tips-and-tricks#)]
 - 科学空间(苏剑林): [[zh-cn](https://spaces.ac.cn/)]
 - 深度学习500问: [[Github: zh-cn](https://github.com/scutan90/DeepLearning-500-questions)]
+- awesome-ai-tools: [[Github: en](https://github.com/NoFish-528/awesome-ai-tools)]
 
 ### prompts
 - ChatGPT 中文调教指南: [[Github: zh-cn](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)]
