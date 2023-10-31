@@ -33,6 +33,7 @@
 - 科学空间(苏剑林): [[zh-cn](https://spaces.ac.cn/)]
 - 深度学习500问: [[Github: zh-cn](https://github.com/scutan90/DeepLearning-500-questions)]
 - awesome-ai-tools: [[Github: en](https://github.com/NoFish-528/awesome-ai-tools)]
+- Learning Research: [[Github: zh-cn](https://github.com/pengsida/learning_research)]
 
 ### prompts
 - ChatGPT 中文调教指南: [[Github: zh-cn](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)]
