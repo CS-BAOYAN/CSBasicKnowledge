@@ -53,6 +53,7 @@
 
 ## Git & Github
 - Learn Git Branching(强推): [[zh-cn](https://learngitbranching.js.org/?locale=zh_CN)]
+- Pro Git 中文版：[[zh](https://www.progit.cn/)]
 - 约定式提交，或许可以规范你的Github提交：\[[zh-cn](https://www.conventionalcommits.org/zh-hans/v1.0.0/)\]
 - Commit message 和 Change log 编写指南：[[zh-cn](https://ruanyifeng.com/blog/2016/01/commit_message_change_log.html)]
 - commitizen/cz-cli: [[Github](https://github.com/commitizen/cz-cli)]
