@@ -121,6 +121,7 @@
 
 ## MISC
 
+- 期刊查询和scihub各种科研导航: [[Page](https://www.ablesci.com/journal )]
 - 如何设置代理: [[PDF](./如何设置代理.pdf)]
 - 耗时很长的程序忘加nohup就运行了怎么办？: [[zhihu](https://www.zhihu.com/question/586298694/answer/2991647868)]
 - linux 多线程下载工具-aria2c: [[zhihu.com](https://zhuanlan.zhihu.com/p/637294044)]
