@@ -98,6 +98,7 @@
 ## LaTeX & Markdown
 - latex codebook: [[Github: zh-cn](https://github.com/xinychen/latex-cookbook)]
 - LaTeX教程，篇幅较大，但是好用：\[[官网](https://ctan.org/tex-archive/info/lshort/chinese)\]\[[镜像](http://mirrors.cqu.edu.cn/CTAN/info/lshort/chinese/lshort-zh-cn.pdf)\]\[[Github](https://github.com/CTeX-org/lshort-zh-cn)\]
+- Latex公式识别：[[网站](https://www.simpletex.cn/ai/latex_ocr)]
 
 ## MISC
 - 如何设置代理: [[PDF](./如何设置代理.pdf)]
