@@ -37,6 +37,7 @@
 - 深度学习500问: [[Github: zh-cn](https://github.com/scutan90/DeepLearning-500-questions)]
 - awesome-ai-tools: [[Github: en](https://github.com/NoFish-528/awesome-ai-tools)]
 - Learning Research: [[Github: zh-cn](https://github.com/pengsida/learning_research)]
+- Stanford HowToReadpaper: [[page](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)] [[pdf](./HowtoReadPaper.pdf)]
 
 ### prompts
 
