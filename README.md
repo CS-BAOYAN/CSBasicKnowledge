@@ -149,3 +149,10 @@
 - 阿里巴巴矢量图标库: [[page](https://www.iconfont.cn/)]
 - 程序员延寿指南: [[Github: zh-cn](https://github.com/geekan/HowToLiveLonger)]
 - 程序员做菜指南: [[Github: zh-cn](https://github.com/Anduin2017/HowToCook)]
+
+## Contributors
+<a href="https://github.com/CS-BAOYAN/CSBasicKnowledge/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=CS-BAOYAN/CSBasicKnowledge" />
+</a>
+
+Made with [contrib.rocks](https://contrib.rocks).
