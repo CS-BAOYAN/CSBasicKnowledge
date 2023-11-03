@@ -119,10 +119,25 @@
 - latex codebook: [[Github: zh-cn](https://github.com/xinychen/latex-cookbook)]
 - LaTeX教程，篇幅较大，但是好用：\[[官网](https://ctan.org/tex-archive/info/lshort/chinese)\]\[[镜像](http://mirrors.cqu.edu.cn/CTAN/info/lshort/chinese/lshort-zh-cn.pdf)\]\[[Github](https://github.com/CTeX-org/lshort-zh-cn)\]
 - Latex公式识别：[[网站](https://www.simpletex.cn/ai/latex_ocr)]
+- Overleaf（在线Latex编辑器）：[[网站](https://www.overleaf.com/)]
+
+## Academic
+
+- 谷歌学术：Google Scholar [[en](https://scholar.google.com)]
+- 计算机科学文献数据库：DBLP [[en](https://dblp.org/)]
+- SCI期刊查询和scihub各种科研导航: [[Page](https://www.ablesci.com/journal )]
+- ACM数字图书馆：ACM Digital Library [[en](https://dl.acm.org/)]
+- IEEE学术数据库：IEEE Xplore [[en](https://ieeexplore.ieee.org/)]
+- SCI论文检索：Web of Science [[en](https://www.webofscience.com/)]
+- EI论文检索：Engineering Village [[en](https://www.engineeringvillage.com/)]
+- 中文文献检索：中国知网 [[zh-cn](https://www.cnki.net/)]
+- 中国计算机学会（CCF）推荐国际学术会议和期刊目录（2022版）[[pdf](./CCF_Recommended_List.pdf)]
+- CCF会议投稿截止时间汇总：[[zh-cn](https://ccfddl.github.io/)]
+- 清华大学计算机学科推荐学术会议和期刊列表 (TH-CPL) [[Github](https://github.com/bugaosuni59/TH-CPL)]
+- CSRankings: Computer Science Rankings [[en](https://csrankings.org/)]
 
 ## MISC
 
-- 期刊查询和scihub各种科研导航: [[Page](https://www.ablesci.com/journal )]
 - 如何设置代理: [[PDF](./如何设置代理.pdf)]
 - 耗时很长的程序忘加nohup就运行了怎么办？: [[zhihu](https://www.zhihu.com/question/586298694/answer/2991647868)]
 - linux 多线程下载工具-aria2c: [[zhihu.com](https://zhuanlan.zhihu.com/p/637294044)]
