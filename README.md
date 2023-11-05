@@ -147,8 +147,11 @@
 - 图吧工具箱: [[page](http://www.tbtool.cn/)]
 - 文献管理软件Zotero安装设置教程及各插件配置（知网支持、影响因子、被引数: [[zh-cn](https://www.starryfk.com/tec/zotero-settings-and-plugins-for-literature-management-software.html)]
 - 阿里巴巴矢量图标库: [[page](https://www.iconfont.cn/)]
+
+## 程序员指南
 - 程序员延寿指南: [[Github: zh-cn](https://github.com/geekan/HowToLiveLonger)]
 - 程序员做菜指南: [[Github: zh-cn](https://github.com/Anduin2017/HowToCook)]
+- 颈椎病腰突康复指南: [[Github: zh-cn](https://github.com/AnsonZnl/RehabilitationGuide)]
 
 ## Contributors
 <a href="https://github.com/CS-BAOYAN/CSBasicKnowledge/graphs/contributors">
