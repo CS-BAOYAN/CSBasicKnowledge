@@ -136,6 +136,17 @@
 - 清华大学计算机学科推荐学术会议和期刊列表 (TH-CPL) [[Github](https://github.com/bugaosuni59/TH-CPL)]
 - CSRankings: Computer Science Rankings [[en](https://csrankings.org/)]
 
+## Tenure-Track Asst. Professors and PhD students 
+- Awesome Lists for Tenure-Track Asst. Professors and PhD students: [[Github: en & zh-cn](https://github.com/JunweiLiang/awesome_lists)]
+- 一个博士生在科研大组的生存指南: [[pdf](http://www.tcse.cn/~wsdou/advice/phd%20survival-chen.pdf)]
+- Collection of advice for prospective and current PhD students: [[Github: en](https://github.com/pliang279/awesome-phd-advice)]
+
+## 程序员指南
+
+- 程序员延寿指南: [[Github: zh-cn](https://github.com/geekan/HowToLiveLonger)]
+- 程序员做菜指南: [[Github: zh-cn](https://github.com/Anduin2017/HowToCook)]
+- 颈椎病腰突康复指南: [[Github: zh-cn](https://github.com/AnsonZnl/RehabilitationGuide)]
+
 ## MISC
 
 - 如何设置代理: [[PDF](./如何设置代理.pdf)]
@@ -148,10 +159,7 @@
 - 文献管理软件Zotero安装设置教程及各插件配置（知网支持、影响因子、被引数: [[zh-cn](https://www.starryfk.com/tec/zotero-settings-and-plugins-for-literature-management-software.html)]
 - 阿里巴巴矢量图标库: [[page](https://www.iconfont.cn/)]
 
-## 程序员指南
-- 程序员延寿指南: [[Github: zh-cn](https://github.com/geekan/HowToLiveLonger)]
-- 程序员做菜指南: [[Github: zh-cn](https://github.com/Anduin2017/HowToCook)]
-- 颈椎病腰突康复指南: [[Github: zh-cn](https://github.com/AnsonZnl/RehabilitationGuide)]
+
 
 ## Contributors
 <a href="https://github.com/CS-BAOYAN/CSBasicKnowledge/graphs/contributors">
