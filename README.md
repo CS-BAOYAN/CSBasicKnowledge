@@ -82,9 +82,10 @@
 
 ### vscode debug setting
 
-## Linux常用指令
+## Linux
 
 - 中科大 LUG 基础 Linux 教程: [[zh-cn](https://101.lug.ustc.edu.cn/)]
+- 鳥哥的 Linux 私房菜：[[zh](https://linux.vbird.org/)]
 
 ## Conda & Docker
 
