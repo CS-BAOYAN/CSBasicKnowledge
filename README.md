@@ -25,7 +25,7 @@
 ### Tutorials
 
 - 一些国内的广为人知的视频教程，适合边睡边看：
-  - 跟李沐学AI（bilibili）
+  - 跟李沐学AI（[[bilibili](https://space.bilibili.com/1567748478/channel/seriesdetail?sid=358497)]、[[课程主页](https://courses.d2l.ai/zh-v2/)]、[[教材](https://zh-v2.d2l.ai/)]）
   - 耿直哥（bilibili）
 - 一篇不太专业的如何读论文的小文档：\[[pdf](./论文粗读攻略.md)\]
 - paper with code：[[page](https://paperswithcode.com/)]
