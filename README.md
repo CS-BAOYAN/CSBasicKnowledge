@@ -26,6 +26,7 @@
 
 ### Large Language Model
 - LLM-action: [Github: zh-cn](https://github.com/liguodongiot/llm-action)
+- LLMSurvey: [Github](https://github.com/RUCAIBox/LLMSurvey/tree/main)
 
 ### Tutorials
 
