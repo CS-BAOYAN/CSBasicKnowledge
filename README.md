@@ -14,6 +14,7 @@
 ## AI
 
 ### PyTorch
+- pytorch模型性能分析和优化: [weixin](https://mp.weixin.qq.com/s/lxJthBk1L2nYOyQyLbqqEw)
 
 ### HuggingFace
 
@@ -21,6 +22,10 @@
   - [Github: huggingface-go](https://github.com/xieincz/huggingface-go)
   - [AI快站](https://aifasthub.com/): 10MB/S下载的带宽资源
   - [国内huggingface加速镜像站](https://hf-mirror.com)
+  - [如何快速下载huggingface模型——全方法总结](https://zhuanlan.zhihu.com/p/663712983?utm_medium=social&utm_oi=1347152889933049856&utm_psn=1703700804178083840&utm_source=wechat_session&s_r=0)
+
+### Large Language Model
+- LLM-action: [Github: zh-cn](https://github.com/liguodongiot/llm-action)
 
 ### Tutorials
 
@@ -159,6 +164,8 @@
 - 图吧工具箱: [[page](http://www.tbtool.cn/)]
 - 文献管理软件Zotero安装设置教程及各插件配置（知网支持、影响因子、被引数: [[zh-cn](https://www.starryfk.com/tec/zotero-settings-and-plugins-for-literature-management-software.html)]
 - 阿里巴巴矢量图标库: [[page](https://www.iconfont.cn/)]
+- 电子书：[Github: zh-cn](https://github.com/SuperCV/Book)
+- Paper Picture Writing Code: [Github](https://github.com/MLNLP-World/Paper-Picture-Writing-Code)
 
 
 
