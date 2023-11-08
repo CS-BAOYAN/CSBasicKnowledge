@@ -27,6 +27,7 @@
 ### Large Language Model
 - LLM-action: [Github: zh-cn](https://github.com/liguodongiot/llm-action)
 - LLMSurvey: [Github](https://github.com/RUCAIBox/LLMSurvey/tree/main)
+- LLM-Agent-Paper-List (Fdu NLP): [Github](https://github.com/WooooDyy/LLM-Agent-Paper-List#132-embodied-action)
 
 ### Tutorials
 
