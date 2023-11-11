@@ -10,6 +10,7 @@
 - CS免费编程书籍：\[[Github](https://github.com/yinhonggen/free-programming-books-zh_CN)\]
 - Crash Course Computer Science(个人觉得值得观看的计算机知识速成科普课程): [[YouTube](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulI)] [[Bilibili](https://www.bilibili.com/video/BV1EW411u7th/?spm_id_from=333.337.search-card.all.click)] [[zh-cn](https://github.com/1c7/crash-course-computer-science-chinese)]
 - 在有用和没用之间徘徊的速查网站：\[[zh-cn](https://quickref.cn/)\]
+- Z-Library（大名鼎鼎的盗版书籍资源网站）:[[en](https://singlelogin.re/)]
 
 ## AI
 
@@ -145,6 +146,7 @@
 - CCF会议投稿截止时间汇总：[[zh-cn](https://ccfddl.github.io/)]
 - 清华大学计算机学科推荐学术会议和期刊列表 (TH-CPL) [[Github](https://github.com/bugaosuni59/TH-CPL)]
 - CSRankings: Computer Science Rankings [[en](https://csrankings.org/)]
+- 国家自然科学基金查询 [[zh](https://kd.nsfc.gov.cn/resultInit)]
 
 ## Tenure-Track Asst. Professors and PhD students 
 - Awesome Lists for Tenure-Track Asst. Professors and PhD students: [[Github: en & zh-cn](https://github.com/JunweiLiang/awesome_lists)]
@@ -171,6 +173,7 @@
 - 阿里巴巴矢量图标库: [[page](https://www.iconfont.cn/)]
 - 电子书：[Github: zh-cn](https://github.com/SuperCV/Book)
 - Paper Picture Writing Code: [Github](https://github.com/MLNLP-World/Paper-Picture-Writing-Code)
+- 魔盾安全分析（可疑软件在线分析）：[[zh-cn](https://www.maldun.com/submit/submit_file/)]
 
 
 
