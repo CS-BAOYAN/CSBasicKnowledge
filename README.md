@@ -7,7 +7,7 @@
 - CS 自学指南: [[zh-cn](https://github.com/PKUFlyingPig/cs-self-learning)] [[en](https://github.com/PKUFlyingPig/Self-learning-Computer-Science)]
 - OI Wiki(ACMer必备): [[zh-cn](https://oi-wiki.org/)] 
 - The Missing Semester of Your CS Education: [[en](https://missing.csail.mit.edu/)] [[zh-cn](https://missing-semester-cn.github.io/)]
-- CS免费编程书籍：\[[Github](https://github.com/yinhonggen/free-programming-books-zh_CN)\]
+- CS 免费编程书籍：\[[Github](https://github.com/yinhonggen/free-programming-books-zh_CN)\][Github: zh-cn](https://github.com/SuperCV/Book)
 - Crash Course Computer Science(个人觉得值得观看的计算机知识速成科普课程): [[YouTube](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulI)] [[Bilibili](https://www.bilibili.com/video/BV1EW411u7th/?spm_id_from=333.337.search-card.all.click)] [[zh-cn](https://github.com/1c7/crash-course-computer-science-chinese)]
 - 在有用和没用之间徘徊的速查网站：\[[zh-cn](https://quickref.cn/)\]
 - Z-Library（大名鼎鼎的盗版书籍资源网站，务必认准免费、正版的网址）:[[en](https://singlelogin.re/)]
@@ -171,7 +171,6 @@
 - 图吧工具箱: [[page](http://www.tbtool.cn/)]
 - 文献管理软件 Zotero：安装设置教程及各插件配置（知网支持、影响因子、被引数）: [[zh-cn](https://www.starryfk.com/tec/zotero-settings-and-plugins-for-literature-management-software.html)]
 - 阿里巴巴矢量图标库: [[page](https://www.iconfont.cn/)]
-- 电子书：[Github: zh-cn](https://github.com/SuperCV/Book)
 - Paper Picture Writing Code: [Github](https://github.com/MLNLP-World/Paper-Picture-Writing-Code)
 - 魔盾安全分析（可疑软件在线分析）：[[zh-cn](https://www.maldun.com/submit/submit_file/)]
 - 崔庆才 Python3 网络爬虫学习教程: [[zh-cn](https://cuiqingcai.com/17777.html)]
