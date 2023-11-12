@@ -47,7 +47,7 @@
 - Learning Research: [[Github: zh-cn](https://github.com/pengsida/learning_research)]
 - Stanford HowToReadpaper: [[page](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)] [[pdf](./HowtoReadPaper.pdf)]
 
-### prompts
+### Prompts
 
 - ChatGPT 中文调教指南: [[Github: zh-cn](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)]
 - Awesome ChatGPT Prompts: [[Github: en](https://github.com/f/awesome-chatgpt-prompts)]
