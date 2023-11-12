@@ -10,7 +10,7 @@
 - CS免费编程书籍：\[[Github](https://github.com/yinhonggen/free-programming-books-zh_CN)\]
 - Crash Course Computer Science(个人觉得值得观看的计算机知识速成科普课程): [[YouTube](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulI)] [[Bilibili](https://www.bilibili.com/video/BV1EW411u7th/?spm_id_from=333.337.search-card.all.click)] [[zh-cn](https://github.com/1c7/crash-course-computer-science-chinese)]
 - 在有用和没用之间徘徊的速查网站：\[[zh-cn](https://quickref.cn/)\]
-- Z-Library（大名鼎鼎的盗版书籍资源网站）:[[en](https://singlelogin.re/)]
+- Z-Library（大名鼎鼎的盗版书籍资源网站，务必认准免费、正版的网址）:[[en](https://singlelogin.re/)]
 
 ## AI
 
