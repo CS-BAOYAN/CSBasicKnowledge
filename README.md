@@ -174,6 +174,7 @@
 - 电子书：[Github: zh-cn](https://github.com/SuperCV/Book)
 - Paper Picture Writing Code: [Github](https://github.com/MLNLP-World/Paper-Picture-Writing-Code)
 - 魔盾安全分析（可疑软件在线分析）：[[zh-cn](https://www.maldun.com/submit/submit_file/)]
+- 爬虫: [[zh-cn][崔庆才 Python3 网络爬虫学习教程](https://cuiqingcai.com/17777.html)]
 
 
 
