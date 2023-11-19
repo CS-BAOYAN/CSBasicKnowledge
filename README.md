@@ -13,6 +13,10 @@
 - 在有用和没用之间徘徊的速查网站：\[[zh-cn](https://quickref.cn/)\]
 - Z-Library（大名鼎鼎的盗版书籍资源网站，务必认准免费、正版的网址）:[[en](https://singlelogin.re/)]
 
+## Web
+
+## CG
+
 ## AI
 
 ### PyTorch
@@ -30,6 +34,7 @@
 - LLM-action: [Github: zh-cn](https://github.com/liguodongiot/llm-action)
 - LLMSurvey: [Github](https://github.com/RUCAIBox/LLMSurvey/tree/main)
 - LLM-Agent-Paper-List (Fdu NLP): [Github](https://github.com/WooooDyy/LLM-Agent-Paper-List#132-embodied-action)
+- llamafia.github: [[Github](https://github.com/LLaMafia/llamafia.github)] 一个中文前沿 AI / LLM 开源讨论空间
 
 ### Tutorials
 
@@ -47,6 +52,7 @@
 - awesome-ai-tools: [[Github: en](https://github.com/NoFish-528/awesome-ai-tools)]
 - Learning Research: [[Github: zh-cn](https://github.com/pengsida/learning_research)]
 - Stanford HowToReadpaper: [[page](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)] [[pdf](./HowtoReadPaper.pdf)]
+- 有关迁移学习的一切的资料: [[Github](https://github.com/jindongwang/transferlearning)]
 
 ### Prompts
 
@@ -135,6 +141,9 @@
 - LaTeX教程，篇幅较大，但是好用：\[[官网](https://ctan.org/tex-archive/info/lshort/chinese)\]\[[镜像](http://mirrors.cqu.edu.cn/CTAN/info/lshort/chinese/lshort-zh-cn.pdf)\]\[[Github](https://github.com/CTeX-org/lshort-zh-cn)\]
 - Latex公式识别：[[网站](https://www.simpletex.cn/ai/latex_ocr)]
 - Overleaf（在线Latex编辑器）：[[网站](https://www.overleaf.com/)]
+- Typora 伪装 LaTeX 中文样式主题: [[Github](https://github.com/Keldos-Li/typora-latex-theme)]
+
+### Beamer tutorial
 
 ## Academic
 
