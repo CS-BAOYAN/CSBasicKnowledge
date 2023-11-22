@@ -13,16 +13,25 @@
 - 在有用和没用之间徘徊的速查网站：\[[zh-cn](https://quickref.cn/)\]
 - Z-Library（大名鼎鼎的盗版书籍资源网站，务必认准免费、正版的网址）:[[en](https://singlelogin.re/)]
 
+## Programming Language
+### C/C++
+### Python
+### Go/Java
+
 ## Web
 
 ## CG
 
-## AI
-
 ## HPC
+
+## System
+
+- 机器学习系统：设计和实现: [[page](https://openmlsys.github.io/)] [[Github: zh-cn](https://github.com/openmlsys/openmlsys-zh)]
+- 机器学习编译：[[Page](https://mlc.ai/summer22-zh/)] [[Bilibili](https://www.bilibili.com/video/BV15v4y1g7EU/)] [[Notes](https://mlc.ai/zh/)] 
 
 ## Security
 
+## AI
 ### PyTorch
 - pytorch模型性能分析和优化: [weixin](https://mp.weixin.qq.com/s/lxJthBk1L2nYOyQyLbqqEw)
 
@@ -85,6 +94,28 @@
 - 第一次参与开源项目，如何提交pr: [[Github: zh-cn](https://github.com/firstcontributions/first-contributions/blob/main/translations/README.zh-cn.md)]
 - 给 Github Desktop 设置代理：[[zh-cn](https://xieincz.github.io/post/gei-github-desktop-she-zhi-dai-li/)]
 
+## Academic
+
+- 谷歌学术：Google Scholar [[en](https://scholar.google.com)]
+- 计算机科学文献数据库：DBLP [[en](https://dblp.org/)]
+- SCI期刊查询和scihub各种科研导航: [[Page](https://www.ablesci.com/journal )]
+- ACM数字图书馆：ACM Digital Library [[en](https://dl.acm.org/)]
+- IEEE学术数据库：IEEE Xplore [[en](https://ieeexplore.ieee.org/)]
+- SCI论文检索：Web of Science [[en](https://www.webofscience.com/)]
+- EI论文检索：Engineering Village [[en](https://www.engineeringvillage.com/)]
+- 中文文献检索：中国知网 [[zh-cn](https://www.cnki.net/)]
+- 中国计算机学会（CCF）推荐国际学术会议和期刊目录（2022版）[[pdf](./CCF_Recommended_List.pdf)]
+- CCF会议投稿截止时间汇总：[[zh-cn](https://ccfddl.github.io/)]
+- 清华大学计算机学科推荐学术会议和期刊列表 (TH-CPL) [[Github](https://github.com/bugaosuni59/TH-CPL)]
+- CSRankings: Computer Science Rankings [[en](https://csrankings.org/)]
+- 国家自然科学基金查询 [[zh](https://kd.nsfc.gov.cn/resultInit)]
+
+## Tenure-Track Asst. Professors and PhD students 
+- Awesome Lists for Tenure-Track Asst. Professors and PhD students: [[Github: en & zh-cn](https://github.com/JunweiLiang/awesome_lists)]
+- 一个博士生在科研大组的生存指南: [[pdf](http://www.tcse.cn/~wsdou/advice/phd%20survival-chen.pdf)]
+- Collection of advice for prospective and current PhD students: [[Github: en](https://github.com/pliang279/awesome-phd-advice)]
+- A Survival Guide to a PhD: [[en](https://karpathy.github.io/2016/09/07/phd/)]
+
 ## How to Debug
 
 ### pdb
@@ -134,11 +165,6 @@
 - Awesome Resume for Chinese: [[Github: zh-cn](https://github.com/dyweb/awesome-resume-for-chinese)]
 - cv_emuluate: Academic CVs that you can (hopefully) emulate: [[Github](https://github.com/hongtaoh/cv_emulate)]
 
-## System
-
-- 机器学习系统：设计和实现: [[page](https://openmlsys.github.io/)] [[Github: zh-cn](https://github.com/openmlsys/openmlsys-zh)]
-- 机器学习编译：[[Page](https://mlc.ai/summer22-zh/)] [[Bilibili](https://www.bilibili.com/video/BV15v4y1g7EU/)] [[Notes](https://mlc.ai/zh/)] 
-
 ## LaTeX & Markdown
 
 - latex codebook: [[Github: zh-cn](https://github.com/xinychen/latex-cookbook)]
@@ -148,28 +174,6 @@
 - Typora 伪装 LaTeX 中文样式主题: [[Github](https://github.com/Keldos-Li/typora-latex-theme)]
 
 ### Beamer tutorial
-
-## Academic
-
-- 谷歌学术：Google Scholar [[en](https://scholar.google.com)]
-- 计算机科学文献数据库：DBLP [[en](https://dblp.org/)]
-- SCI期刊查询和scihub各种科研导航: [[Page](https://www.ablesci.com/journal )]
-- ACM数字图书馆：ACM Digital Library [[en](https://dl.acm.org/)]
-- IEEE学术数据库：IEEE Xplore [[en](https://ieeexplore.ieee.org/)]
-- SCI论文检索：Web of Science [[en](https://www.webofscience.com/)]
-- EI论文检索：Engineering Village [[en](https://www.engineeringvillage.com/)]
-- 中文文献检索：中国知网 [[zh-cn](https://www.cnki.net/)]
-- 中国计算机学会（CCF）推荐国际学术会议和期刊目录（2022版）[[pdf](./CCF_Recommended_List.pdf)]
-- CCF会议投稿截止时间汇总：[[zh-cn](https://ccfddl.github.io/)]
-- 清华大学计算机学科推荐学术会议和期刊列表 (TH-CPL) [[Github](https://github.com/bugaosuni59/TH-CPL)]
-- CSRankings: Computer Science Rankings [[en](https://csrankings.org/)]
-- 国家自然科学基金查询 [[zh](https://kd.nsfc.gov.cn/resultInit)]
-
-## Tenure-Track Asst. Professors and PhD students 
-- Awesome Lists for Tenure-Track Asst. Professors and PhD students: [[Github: en & zh-cn](https://github.com/JunweiLiang/awesome_lists)]
-- 一个博士生在科研大组的生存指南: [[pdf](http://www.tcse.cn/~wsdou/advice/phd%20survival-chen.pdf)]
-- Collection of advice for prospective and current PhD students: [[Github: en](https://github.com/pliang279/awesome-phd-advice)]
-- A Survival Guide to a PhD: [[en](https://karpathy.github.io/2016/09/07/phd/)]
 
 ## 程序员指南
 
