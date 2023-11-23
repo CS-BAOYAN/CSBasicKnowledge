@@ -53,6 +53,14 @@
   - [国内huggingface加速镜像站](https://hf-mirror.com)
   - [如何快速下载huggingface模型——全方法总结](https://zhuanlan.zhihu.com/p/663712983?utm_medium=social&utm_oi=1347152889933049856&utm_psn=1703700804178083840&utm_source=wechat_session&s_r=0)
 
+### NLP(Natural language Processing)
+### CV(Computer Vision）
+### Audio & Speech
+- Speech-Resources: [[Github:zh-cn](https://github.com/ddlBoJack/Speech-Resources)]
+- Awesome-Speech-Pretraining: [[Github:zh-cn](https://github.com/ddlBoJack/Awesome-Speech-Pretraining)]
+### Recommendation System
+- datawhale/fun-rec: [[Github:zh-cn](https://github.com/datawhalechina/fun-rec)]
+
 ### Large Language Model
 - LLM-action: [Github: zh-cn](https://github.com/liguodongiot/llm-action)
 - LLMSurvey: [Github](https://github.com/RUCAIBox/LLMSurvey/tree/main)
