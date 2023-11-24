@@ -200,6 +200,7 @@
 - Latex公式识别：[[网站](https://www.simpletex.cn/ai/latex_ocr)]
 - Overleaf（在线Latex编辑器）：[[网站](https://www.overleaf.com/)]
 - Typora 伪装 LaTeX 中文样式主题: [[Github](https://github.com/Keldos-Li/typora-latex-theme)]
+- latex-templates: [[Github:zh-cn](https://github.com/hantang/latex-templates)]
 
 ### Beamer tutorial
 
