@@ -11,6 +11,7 @@
 - CS 学习路线Roadmap：\[[en](https://roadmap.sh)\]
 - Crash Course Computer Science(个人觉得值得观看的计算机知识速成科普课程): [[YouTube](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulI)] [[Bilibili](https://www.bilibili.com/video/BV1EW411u7th/?spm_id_from=333.337.search-card.all.click)] [[zh-cn](https://github.com/1c7/crash-course-computer-science-chinese)]
 - 在有用和没用之间徘徊的速查网站：\[[zh-cn](https://quickref.cn/)\]
+- Devdocs: 一些常见开发语言 & 工具的文档汇总与速查： \[[en](https://devdocs.io/)\]
 - Z-Library（大名鼎鼎的盗版书籍资源网站，务必认准免费、正版的网址）:[[en](https://singlelogin.re/)]
 
 ## Programming Language
@@ -52,6 +53,7 @@
 ## Security
 
 ## AI
+
 ### PyTorch
 - pytorch模型性能分析和优化: [weixin](https://mp.weixin.qq.com/s/lxJthBk1L2nYOyQyLbqqEw)
 
@@ -64,10 +66,17 @@
   - [如何快速下载huggingface模型——全方法总结](https://zhuanlan.zhihu.com/p/663712983?utm_medium=social&utm_oi=1347152889933049856&utm_psn=1703700804178083840&utm_source=wechat_session&s_r=0)
 
 ### NLP(Natural language Processing)
+
+- CS224n：Stanford 的 NLP入门课程 \[[Main Page](http://web.stanford.edu/class/cs224n/index.html)\] \[[Slides, Notes & Assignments](http://web.stanford.edu/class/cs224n/index.html#schedule)\] \[[Bilibili](https://www.bilibili.com/video/BV1Eb411H7Pq/)\]
+
 ### CV(Computer Vision）
+
+- CS231n: Stanford 的 CV 入门课程 \[[Main Page](http://cs231n.stanford.edu/)\] \[[bilibili](https://www.bilibili.com/video/BV1nJ411z7fe)\] \[[Assignments](http://cs231n.stanford.edu/schedule.html)\]
+
 ### Audio & Speech
 - Speech-Resources: [[Github:zh-cn](https://github.com/ddlBoJack/Speech-Resources)]
 - Awesome-Speech-Pretraining: [[Github:zh-cn](https://github.com/ddlBoJack/Awesome-Speech-Pretraining)]
+
 ### Recommendation System
 - datawhale/fun-rec: [[Github:zh-cn](https://github.com/datawhalechina/fun-rec)]
 
@@ -134,6 +143,7 @@
 - 中文文献检索：中国知网 [[zh-cn](https://www.cnki.net/)]
 - 中国计算机学会（CCF）推荐国际学术会议和期刊目录（2022版）[[pdf](./CCF_Recommended_List.pdf)]
 - CCF会议投稿截止时间汇总：[[zh-cn](https://ccfddl.github.io/)]
+- CCFrank: 在相关网站的搜索结果中显示 CCF 评级的浏览器插件 \[[Github](https://github.com/WenyanLiu/CCFrank4dblp)\] \[[Chrome](https://chrome.google.com/webstore/detail/ccfrank/pfcajmbenomfbjnbjhgbnbdjmiklnkie)\] \[[Edge](https://microsoftedge.microsoft.com/addons/detail/pboigbpepikdoeindehghnpojjblhjmm)\] \[[FireFox](https://addons.mozilla.org/zh-CN/firefox/addon/ccfrank/)\]
 - 清华大学计算机学科推荐学术会议和期刊列表 (TH-CPL) [[Github](https://github.com/bugaosuni59/TH-CPL)]
 - CSRankings: Computer Science Rankings [[en](https://csrankings.org/)]
 - 国家自然科学基金查询 [[zh](https://kd.nsfc.gov.cn/resultInit)]
@@ -146,6 +156,10 @@
 
 ## How to Debug
 
+### gdb
+
+- gdb-dashboard: 使用 Python 在命令行中可视化使用 gdb 的小工具 \[[Github](https://github.com/cyrus-and/gdb-dashboard)\]
+
 ### pdb
 
 - 10分钟教程掌握Python调试器pdb: [[zhihu](https://zhuanlan.zhihu.com/p/37294138)]
@@ -155,6 +169,9 @@
 - vscode python设置debug: [[zhihu](https://www.zhihu.com/question/35022733/answer/3178874019)]
 
 ### vscode debug setting
+
+- Debug C++ in Visual Studio Code: \[[Document: en](https://code.visualstudio.com/docs/cpp/cpp-debug)\]
+- Configure C/C++ debugging in VSCode: \[[Document: en](https://code.visualstudio.com/docs/cpp/launch-json-reference)\]
 
 ## Linux
 
@@ -180,6 +197,8 @@
   
   按 `Ctrl-p Ctrl-q`。如果按 `Ctrl-c` 往往会让容器内应用进程终止，进而会终止容器，如果没有在IDE里面没有成功，请去除IDE对应的快捷键。
 
+### Kubernetes
+
 ## CUDA & Nvidia
 
 - 切换CUDA版本步骤: [[CSDN](https://blog.csdn.net/u013905398/article/details/103799621)]
@@ -199,10 +218,18 @@
 - LaTeX教程，篇幅较大，但是好用：\[[官网](https://ctan.org/tex-archive/info/lshort/chinese)\]\[[镜像](http://mirrors.cqu.edu.cn/CTAN/info/lshort/chinese/lshort-zh-cn.pdf)\]\[[Github](https://github.com/CTeX-org/lshort-zh-cn)\]
 - Latex公式识别：[[网站](https://www.simpletex.cn/ai/latex_ocr)]
 - Overleaf（在线Latex编辑器）：[[网站](https://www.overleaf.com/)]
+- $\LaTeX$ 在线表格生成工具：\[[工具1](https://www.tablesgenerator.com/)\] \[[工具2](https://www.latex-tables.com/)\]
 - Typora 伪装 LaTeX 中文样式主题: [[Github](https://github.com/Keldos-Li/typora-latex-theme)]
 - latex-templates: [[Github:zh-cn](https://github.com/hantang/latex-templates)]
 
 ### Beamer tutorial
+
+### Typst
+
+- Web App \[[en](https://typst.app/)\]
+- 官方文档: \[[en](https://typst.app/docs/)\]
+- 非官方的中文文档: \[[zh-cn](https://typst-doc-cn.github.io/docs/)\]
+- Github Repo: \[[Github](https://github.com/typst/typst/)\] 
 
 ## 程序员指南
 
@@ -218,13 +245,13 @@
 - 你的指法真的标准吗？打字练习一下：\[[zh-cn](https://qwerty.kaiyi.cool/)\]
 - 利用学生身份可以享受到的相关学生优惠权益: [[Github](https://github.com/ivmm/Student-resources)]
 - 论文常用词汇i.e.，e.g.，etc.，viz.，et al.的前世今生: [[zhihu](https://zhuanlan.zhihu.com/p/63640148)]
+- 中国程序员容易发音错误的单词: \[[Github: zh-cn](https://github.com/shimohq/chinese-programmer-wrong-pronunciation)\]
 - 图吧工具箱: [[page](http://www.tbtool.cn/)]
 - 文献管理软件 Zotero：安装设置教程及各插件配置（知网支持、影响因子、被引数）: [[zh-cn](https://www.starryfk.com/tec/zotero-settings-and-plugins-for-literature-management-software.html)]
 - 阿里巴巴矢量图标库: [[page](https://www.iconfont.cn/)]
 - Paper Picture Writing Code: [Github](https://github.com/MLNLP-World/Paper-Picture-Writing-Code)
 - 魔盾安全分析（可疑软件在线分析）：[[zh-cn](https://www.maldun.com/submit/submit_file/)]
 - 崔庆才 Python3 网络爬虫学习教程: [[zh-cn](https://cuiqingcai.com/17777.html)]
-
 
 
 ## Contributors
