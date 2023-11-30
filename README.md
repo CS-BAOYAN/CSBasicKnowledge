@@ -15,9 +15,56 @@
 - Z-Library（大名鼎鼎的盗版书籍资源网站，务必认准免费、正版的网址）:[[en](https://singlelogin.re/)]
 
 ## Programming Language
-### C/C++
-### Python
-### Go/Java
+### Program Synthesis & Automated Reasoning
+
+- 相关课程：
+
+  - 威斯康辛 CS703：[[Github](https://github.com/lorisdanto/cs703-program-synthesis)]
+
+  - UCSD CSE291：[[Github](https://github.com/nadia-polikarpova/cse291-program-synthesis)]
+  - MIT Introduction to Program Synthesis：[[Page](http://people.csail.mit.edu/asolar/SynthesisCourse/TOC.htm)]
+
+  - Automated Reasoning课程：[[en](https://www.inf.ed.ac.uk/teaching/courses/ar/)]
+
+- Satisfiability Modulo Theories：[[Paper](http://homepage.divms.uiowa.edu/~tinelli/papers/RanTin-IS-06.pdf)]
+
+- Z3：最常见的SMT Solver：[[Paper](https://theory.stanford.edu/~nikolaj/programmingz3.html)] [[GitHub](https://github.com/Z3Prover/z3)] [[Tutorial](https://microsoft.github.io/z3guide/)]
+  - Z3-rise4fun：[[Page](https://www.philipzucker.com/z3-rise4fun/)]
+  - Z3 Playground：[[Page](https://jfmc.github.io/z3-play/)]
+  - Z3 python API：[[Page](https://z3prover.github.io/api/html/namespacez3py.html)]
+
+- PySMT：可与多个SMT求解器进行交互的符号模型检验和约束求解的Python库：[[Page](https://pysmt.readthedocs.io/en/latest/)]
+- 程序修复：[[Paper](https://www.jos.org.cn/jos/article/pdf/6274)]
+
+### Program Analysis
+
+- 静态分析：
+  - 相关课程：
+    - PKU 软件分析技术：[[Page](https://xiongyingfei.github.io/SA/2022/main.htm)] [[Bilibili](https://www.bilibili.com/video/BV1Rt4y1s7tC)]
+    - NJU  软件分析： [[Page](https://tai-e.pascal-lab.net/lectures.html)] [[Bilibili](https://www.bilibili.com/video/BV1b7411K7P4)]
+  - 符号执行：A Survey of Symbolic Execution Techniques：[[Paper](https://arxiv.org/pdf/1610.00502.pdf)]
+  - 指针分析：Pointer Analysis：[[Paper](https://www.nowpublishers.com/article/DownloadSummary/PGL-014)]
+  - 堆分析：Shape Analysis：[[Paper](https://www.researchgate.net/profile/Mooly-Sagiv/publication/225670890_Shape_Analysis/links/58be76a7a6fdcc9831446b58/Shape-Analysis.pdf)]
+  - 参数化分析：[[Paper](https://plrg.korea.ac.kr/assets/data/publication/csur21-park-psa.pdf)]
+- 动态分析：
+  - Fuzzing（这个也可以放在Security）：[[Paper](https://dl.acm.org/doi/abs/10.1145/3512345)]
+    - CS研究生如何入门模糊测试方向？[[Page](https://www.zhihu.com/question/388240608/answer/1157919593)]
+    - Fuzzing技术总结 [[Page](https://zhuanlan.zhihu.com/p/43432370)]
+    - Fuzzing Notes [[Page](https://hkustprism.notion.site/Fuzzing-Notes-4d91f1e6234944ed8a25195792f241ef)]
+    - AFL：[[GitHub](https://github.com/google/AFL)] [[Tutorial](https://qhjchc.notion.site/AFL-d285922586494d2dba5aa01efaf65a4c)]
+- 程序分析工具：
+  - Java：
+    - Wala：[[GitHub](https://github.com/wala/WALA)] [[Tutorial(unfinished)](https://github.com/Leo0426/WALA-improve)]
+    - Doop：[[GitHub](https://github.com/plast-lab/doop-mirror)]
+    - Soot：[[GitHub](https://github.com/soot-oss/soot)]
+  - C++：
+    - C/C++开源静态代码分析及验证工具介绍：[[Page](https://bbs.huaweicloud.com/blogs/401616)]
+    - SVF（找Bug、指针分析、etc...，好像不包含DSA）：[[GitHub](https://github.com/SVF-tools/SVF)]
+    - dg（PDG）：[[GitHub](https://github.com/mchalupa/dg)]
+    - phasar（数据流分析）：[[GitHub](https://github.com/secure-software-engineering/phasar)]
+    - ikos（数值抽象域）：[[GitHub](https://github.com/NASA-SW-VnV/ikos)]
+    - Smack（模型检测）：[[GitHub](https://github.com/smackers/smack)]
+- LLVM：[[Book](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/448c60be-b116-43fb-82fe-640fcd47a604/LLVM_Cookbook.pdf)]
 
 ## Web
 
@@ -51,6 +98,8 @@
 - 机器学习编译：[[Page](https://mlc.ai/summer22-zh/)] [[Bilibili](https://www.bilibili.com/video/BV15v4y1g7EU/)] [[Notes](https://mlc.ai/zh/)] 
 
 ## Security
+
+### Let's CTF!
 
 ## AI
 
