@@ -20,10 +20,8 @@
 - 相关课程：
 
   - 威斯康辛 CS703：[[Github](https://github.com/lorisdanto/cs703-program-synthesis)]
-
   - UCSD CSE291：[[Github](https://github.com/nadia-polikarpova/cse291-program-synthesis)]
   - MIT Introduction to Program Synthesis：[[Page](http://people.csail.mit.edu/asolar/SynthesisCourse/TOC.htm)]
-
   - Automated Reasoning课程：[[en](https://www.inf.ed.ac.uk/teaching/courses/ar/)]
 
 - Satisfiability Modulo Theories：[[Paper](http://homepage.divms.uiowa.edu/~tinelli/papers/RanTin-IS-06.pdf)]
@@ -102,7 +100,12 @@
 ## AI
 
 ### PyTorch
+- pytorch examples: [[Github:en](https://github.com/pytorch/examples)]
+- pytorch tutorials: [[Github:en](https://github.com/pytorch/tutorials)]
 - pytorch模型性能分析和优化: [weixin](https://mp.weixin.qq.com/s/lxJthBk1L2nYOyQyLbqqEw)
+- pytorch handbook: [[Github:zh-cn](https://github.com/zergtant/pytorch-handbook)]
+- datawhale/thorough-pytorch: [[Github:zh-cn](https://github.com/datawhalechina/thorough-pytorch)]
+- 杂七杂八的收集DL相关的东西： [[Github:en](https://github.com/aymericdamien/TopDeepLearning)]
 
 ### HuggingFace
 
@@ -118,6 +121,7 @@
 ### NLP(Natural language Processing)
 
 - CS224n：Stanford 的 NLP入门课程 \[[Main Page](http://web.stanford.edu/class/cs224n/index.html)\] \[[Slides, Notes & Assignments](http://web.stanford.edu/class/cs224n/index.html#schedule)\] \[[Bilibili](https://www.bilibili.com/video/BV1Eb411H7Pq/)\]
+- funNLP: [[Github:zh-cn](https://github.com/fighting41love/funNLP)] NLP民工的乐园: 几乎最全的中文NLP资源库
 
 ### CV(Computer Vision）
 
@@ -305,6 +309,7 @@
 - 魔盾安全分析（可疑软件在线分析）：[[zh-cn](https://www.maldun.com/submit/submit_file/)]
 - 崔庆才 Python3 网络爬虫学习教程: [[zh-cn](https://cuiqingcai.com/17777.html)]
 - youtube下载工具：[[Github](https://github.com/yt-dlp/yt-dlp)]
+- 掘金翻译计划：[[Github:zh-cn](https://github.com/xitu/gold-miner)]
 
 
 ## Contributors
