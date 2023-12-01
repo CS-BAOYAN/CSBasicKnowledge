@@ -66,8 +66,6 @@
     - Smack（模型检测）：[[GitHub](https://github.com/smackers/smack)]
 - LLVM：[[Book](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/448c60be-b116-43fb-82fe-640fcd47a604/LLVM_Cookbook.pdf)]
 
-## Web
-
 ## CG
 
 - Ray Tracing in One Weekend 系列 [[en](https://raytracing.github.io/)]
@@ -137,6 +135,8 @@
 - LLMSurvey: [Github](https://github.com/RUCAIBox/LLMSurvey/tree/main)
 - LLM-Agent-Paper-List (Fdu NLP): [Github](https://github.com/WooooDyy/LLM-Agent-Paper-List#132-embodied-action)
 - llamafia.github: [[Github](https://github.com/LLaMafia/llamafia.github)] 一个中文前沿 AI / LLM 开源讨论空间
+- Large Language Model Course: [[Github](https://github.com/mlabonne/llm-course)]
+- 中文LLaMA&Alpaca大语言模型+本地CPU/GPU训练部署 (Chinese LLaMA & Alpaca LLMs): [[Github](https://github.com/ymcui/Chinese-LLaMA-Alpaca)]
 
 ### Tutorials
 
@@ -304,6 +304,7 @@
 - Paper Picture Writing Code: [Github](https://github.com/MLNLP-World/Paper-Picture-Writing-Code)
 - 魔盾安全分析（可疑软件在线分析）：[[zh-cn](https://www.maldun.com/submit/submit_file/)]
 - 崔庆才 Python3 网络爬虫学习教程: [[zh-cn](https://cuiqingcai.com/17777.html)]
+- youtube下载工具：[[Github](https://github.com/yt-dlp/yt-dlp)]
 
 
 ## Contributors
