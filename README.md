@@ -34,6 +34,10 @@
 - PySMT：可与多个SMT求解器进行交互的符号模型检验和约束求解的Python库：[[Page](https://pysmt.readthedocs.io/en/latest/)]
 - 程序修复：[[Paper](https://www.jos.org.cn/jos/article/pdf/6274)]
 
+- 香蕉空间：
+  - [类型论板块](https://www.bananaspace.org/wiki/%E6%A8%A1%E6%9D%BF:%E7%B1%BB%E5%9E%8B%E8%AE%BA)
+  - [亚结构逻辑](https://www.bananaspace.org/wiki/%E4%BA%9A%E7%BB%93%E6%9E%84%E9%80%BB%E8%BE%91)
+
 ### Program Analysis
 
 - 静态分析：
