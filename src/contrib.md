@@ -33,7 +33,7 @@ mdbook会自动创建`example`文件夹和`example.md`文件。
 ### 行内公式
 行内公式由 `\\(` 和 `\\)`包围。例如，要渲染以下行内方程
 \\( \int x dx = \frac{x^2}{2} + C \\)，可以这么写：
-```
+```latex
 \\( \int x dx = \frac{x^2}{2} + C \\)
 ```
 
@@ -44,7 +44,7 @@ mdbook会自动创建`example`文件夹和`example.md`文件。
 
 可以这么写:
 
-```
+```latex
 \\[ \mu = \frac{1}{N} \sum_{i=0} x_i \\]
 ```
 
