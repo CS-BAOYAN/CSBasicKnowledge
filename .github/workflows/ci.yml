@@ -2,10 +2,10 @@ name: CI Test of CSBasicKnowledge mdbook
 on: 
   push:
     branches: 
-      - mdbook
+      - main
   pull_request:
     branches: 
-      - mdbook
+      - main
 
 jobs:
   test:
