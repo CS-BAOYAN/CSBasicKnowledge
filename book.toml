@@ -1,0 +1,12 @@
+[book]
+authors = ["CSBAOYAN"]
+language = "en"
+multilingual = false
+src = "src"
+title = "CSBasicKnowledge"
+
+[output.html]
+mathjax-support = true
+site-url = "/CSBasicKnowledge/"
+git-repository-url = "https://github.com/CS-BAOYAN/CSBasicKnowledge"
+# edit-url-template = "https://github.com/CS-BAOYAN/CSBasicKnowledge/{path}"
