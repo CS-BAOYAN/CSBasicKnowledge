@@ -1,17 +1,15 @@
-# CSBasicKnowledge   
-
-&emsp;&emsp;欢迎来到这个专注于计算机科学基础知识的仓库。本仓库的目标是补充计算机专业教育中可能缺失的知识点，提供广泛、优质的学习资源。
-
-&emsp;&emsp;我们鼓励并期待有缘人加入我们，共同维护和丰富这个仓库。无论是添加新内容，还是改进现有内容，您的贡献都将使这个仓库变得更好。
+# 【重要】For contributers
 
 ## 鸣谢
+衷心感谢以下参与者对本指南的贡献。
+
+
 
 <a href="https://github.com/CS-BAOYAN/CSBasicKnowledge/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=CS-BAOYAN/CSBasicKnowledge" />
 </a>
 
 Made with [contrib.rocks](https://contrib.rocks).
-
 
 ## 贡献指南
 若希望对**CSBasicKnowledge**进行贡献，请以`SUMMARY.md`为大纲，在`src`文件夹下进行markdown文件的添加即可。
@@ -35,7 +33,7 @@ mdbook会自动创建`example`文件夹和`example.md`文件。
 ### 行内公式
 行内公式由 `\\(` 和 `\\)`包围。例如，要渲染以下行内方程
 \\( \int x dx = \frac{x^2}{2} + C \\)，可以这么写：
-```
+```latex
 \\( \int x dx = \frac{x^2}{2} + C \\)
 ```
 
@@ -46,7 +44,7 @@ mdbook会自动创建`example`文件夹和`example.md`文件。
 
 可以这么写:
 
-```
+```latex
 \\[ \mu = \frac{1}{N} \sum_{i=0} x_i \\]
 ```
 
