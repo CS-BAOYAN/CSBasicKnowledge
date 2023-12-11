@@ -14,6 +14,7 @@
     - Fuzzing技术总结 [[Page](https://zhuanlan.zhihu.com/p/43432370)]
     - Fuzzing Notes [[Page](https://hkustprism.notion.site/Fuzzing-Notes-4d91f1e6234944ed8a25195792f241ef)]
     - AFL：[[GitHub](https://github.com/google/AFL)] [[Tutorial](https://qhjchc.notion.site/AFL-d285922586494d2dba5aa01efaf65a4c)]
+    - Fuzzing-101（练习afl++工具，可作为fuzz入门的十个“小”练习）[[GitHub](https://github.com/antonio-morales/Fuzzing101/tree/main)]
 - 程序分析工具：
   - Java：
     - Wala：[[GitHub](https://github.com/wala/WALA)] [[Tutorial(unfinished)](https://github.com/Leo0426/WALA-improve)]
