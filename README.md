@@ -16,6 +16,26 @@ Made with [contrib.rocks](https://contrib.rocks).
 ## 贡献指南
 若希望对**CSBasicKnowledge**进行贡献，请以`SUMMARY.md`为大纲，在`src`文件夹下进行markdown文件的添加即可。
 
+- src/ac(academic)：本章节主要讲一些学术相关的知识，包括文献搜索，科研经验、读博体验等。
+- src/ai(artificial intelligence)：本章节包括PyTorch，huggingface，各个小方向的相关知识。
+  - PyTorch resources
+  - huggingface resources（包括如何换源/加速下载
+  - dataset resources
+  - NLP / CV / Audio / Recommendation System / Large Language Model
+  - 常见的tutorials
+  - prompts的使用
+  - CUDA & NVIDIA
+- src/cg(computer graphics)：计算机图形学相关资料
+- src/cs(computer science): 计算机科学相关材料
+- src/pl(programming language): 包括Program Synthesis & Automated Reasoning和Program Analysis
+- src/security: 安全相关的知识
+- src/sys(system): 是Computer System，涵盖sys的各个方面，包括arch/os/storage/db/HPC等等
+- src/useful: 一些实用的小工具。包括Linux常见操作，bash的编写，Vim，git/github的使用，如何debug，conda&docker
+- src/writing：写作相关的工具（LaTex，Typst，常见的简历模板
+- src/programmer: 程序员指南
+- src/file: 一些附属文件
+- src/misc: 一些杂项（如果你对要添加的内容没有一个很明确的归类，可以放在这个里面
+
 目前，mdbook对数学公式的支持还不完善，如您需要使用数学公式，请参考下面的**数学公式支持**部分。
 
 **（可选）** 如果您在部署了mdbook并运行后，可以直接在`SUMMARY.md`中添加章节，例如：
