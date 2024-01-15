@@ -4,6 +4,8 @@
 
 &emsp;&emsp;我们鼓励并期待有缘人加入我们，共同维护和丰富这个仓库。无论是添加新内容，还是改进现有内容，您的贡献都将使这个仓库变得更好。
 
+&emsp;&emsp; 在线阅读：https://cs-baoyan.github.io/CSBasicKnowledge/
+
 ## 鸣谢
 
 <a href="https://github.com/CS-BAOYAN/CSBasicKnowledge/graphs/contributors">
