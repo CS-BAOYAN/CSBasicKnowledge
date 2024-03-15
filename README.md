@@ -1,10 +1,16 @@
 # CSBasicKnowledge   
 
-&emsp;&emsp;欢迎来到这个专注于计算机科学基础知识的仓库。本仓库的目标是补充计算机专业教育中可能缺失的知识点，提供广泛、优质的学习资源。
+欢迎来到这个专注于计算机科学基础知识的仓库。本仓库的目标是补充计算机专业教育中可能缺失的知识点，提供广泛、优质的学习资源。
 
-&emsp;&emsp;我们鼓励并期待有缘人加入我们，共同维护和丰富这个仓库。无论是添加新内容，还是改进现有内容，您的贡献都将使这个仓库变得更好。
+我们鼓励并期待有缘人加入我们，共同维护和丰富这个仓库。无论是添加新内容，还是改进现有内容，您的贡献都将使这个仓库变得更好。
 
-&emsp;&emsp; 在线阅读：https://cs-baoyan.github.io/CSBasicKnowledge/
+在线阅读：https://cs-baoyan.github.io/CSBasicKnowledge/
+
+Welcome to this repository focused on fundamental knowledge of computer science. The goal of this repository is to supplement potential gaps in computer science education and provide a wide range of high-quality learning resources.
+
+We encourage and look forward to like-minded individuals joining us to collectively maintain and enrich this repository. Whether it's adding new content or improving existing content, your contributions will make this repository better.
+
+Online reading: https://cs-baoyan.github.io/CSBasicKnowledge/
 
 ## 鸣谢
 
