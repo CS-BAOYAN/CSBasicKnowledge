@@ -16,3 +16,4 @@
 - youtube下载工具：[[Github](https://github.com/yt-dlp/yt-dlp)]
 - 掘金翻译计划：[[Github:zh-cn](https://github.com/xitu/gold-miner)]
 - 桌面管理工具：[[Github:zh-cn](https://github.com/coodesker/coodesker-desktop/releases)]，推荐1.0.4.1release的免费版！
+- 论文代码查找网站：[[page](https://paperswithcode.com/)]
