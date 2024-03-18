@@ -1,0 +1,26 @@
+{
+    "kunpeng.remote.ssh.machineinfo": [],
+    "kunpeng.remote.ssh.clientpath": "C:\\Windows\\System32\\OpenSSH\\ssh.exe",
+    "editor.tokenColorCustomizations": {
+        "textMateRules": [
+            {
+                "scope": "kunpeng.func",
+                "settings": {
+                    "foreground": "#28a745"
+                }
+            },
+            {
+                "scope": "kunpeng.intrinsics",
+                "settings": {
+                    "foreground": "#28a745"
+                }
+            },
+            {
+                "scope": "kunpeng.builtIn",
+                "settings": {
+                    "foreground": "#28a745"
+                }
+            }
+        ]
+    }
+}
