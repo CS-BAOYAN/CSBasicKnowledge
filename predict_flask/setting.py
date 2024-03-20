@@ -1,6 +1,0 @@
-MYSQL_HOST = '124.221.1.25'
-MYSQL_PORT = 3306
-MYSQL_USER = 'admin'
-MYSQL_PASSWORD = 'Admin123!@#'
-MYSQL_DB = 'users'
-MYSQL_CHARSET = 'utf8'

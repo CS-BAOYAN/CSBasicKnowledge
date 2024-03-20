@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="Black">
-    <option name="sdkName" value="linyifan_pytorch" />
-  </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="linyifan_tensorflow" project-jdk-type="Python SDK" />
-</project>
