@@ -15,3 +15,4 @@
 - 崔庆才 Python3 网络爬虫学习教程: [[zh-cn](https://cuiqingcai.com/17777.html)]
 - youtube下载工具：[[Github](https://github.com/yt-dlp/yt-dlp)]
 - 掘金翻译计划：[[Github:zh-cn](https://github.com/xitu/gold-miner)]
+- 桌面管理工具：[[Github:zh-cn](https://github.com/coodesker/coodesker-desktop/releases)]，推荐1.0.4.1release的免费版！
