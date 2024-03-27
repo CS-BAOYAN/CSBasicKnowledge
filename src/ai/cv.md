@@ -9,7 +9,8 @@
 ## object detection
 - [open-mmlab/mmdetection](https://github.com/open-mmlab/mmdetection): OpenMMLab Detection Toolbox and Benchmark
 - [facebookresearch/detectron2](https://github.com/facebookresearch/detectron2): Detectron2 is a platform for object detection, segmentation and other visual recognition tasks.
-- [facebookresearch/detr]: End-to-End Object Detection with Transformers
+- [facebookresearch/detr](https://github.com/facebookresearch/detr): End-to-End Object Detection with Transformers
+- [IDEA-Research/detrex](https://github.com/IDEA-Research/detrex): detrex is a research platform for DETR-based object detection, segmentation, pose estimation and other visual recognition tasks
 
 ## segmentation
 - [facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything)
