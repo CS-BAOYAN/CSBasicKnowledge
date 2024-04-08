@@ -7,3 +7,4 @@
 - \\(\LaTeX\\) 在线表格生成工具：\[[工具1](https://www.tablesgenerator.com/)\] \[[工具2](https://www.latex-tables.com/)\]
 - Typora 伪装 LaTeX 中文样式主题: [[Github](https://github.com/Keldos-Li/typora-latex-theme)]
 - latex-templates: [[Github:zh-cn](https://github.com/hantang/latex-templates)]
+- Latex 常见的数学符号: [PDF](./symbols.pdf)
