@@ -1,5 +1,8 @@
 # Academic常用知识
+## 论文写作
+- [learning_research](https://github.com/pengsida/learning_research): 科研经验总结
 
+## 常用工具
 - 谷歌学术：Google Scholar [[en](https://scholar.google.com)]
 - 计算机科学文献数据库：DBLP [[en](https://dblp.org/)]
 - SCI期刊查询和scihub各种科研导航: [[Page](https://www.ablesci.com/journal )]
