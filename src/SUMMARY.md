@@ -35,7 +35,6 @@
 - [Writing](./writing/writing.md)
   - [CV & Resume](./writing/resume.md)
   - [LaTeX & Markdown](./writing/latex.md)
-  - [Beamer tutorial]()
   - [Typst](./writing/typst.md)
 - [实用工具](./useful/useful.md)
   - [Linux](./useful/linux.md)
