@@ -1,6 +1,7 @@
 # HPC
 
 * 高性能计算学习路线：[[Github: zh-cn](https://heptagonhust.github.io/HPC-roadmap/)]
+* [高等数值分析（高性能计算，并行计算）](https://math.ecnu.edu.cn/~jypan/Teaching/ParaComp/): 华东师范大学高等数值分析（高性能计算，并行计算）
 * 超算习堂：[[zh-cn](https://www.easyhpc.net/)]
 * 并行计算课程：
   * CMU15-418 并行计算架构及编程：[[Bilibili](https://www.bilibili.com/video/BV1Xz4y1p7ZN)] [[课程主页](http://15418.courses.cs.cmu.edu/spring2016/lectures)]
