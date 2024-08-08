@@ -3,7 +3,7 @@
 ### pip 
 ```
 安装最新版
-pip install torch -i https://pypi.tuna.tsinghua.edu.cn/simple
+pip install torch torchvision torchaudio -i https://pypi.tuna.tsinghua.edu.cn/simple
 指定torch, cuda版本(preffered)
 pip install torch==1.10.0+cu113 torchvision==0.11.1+cu113 torchaudio===0.10.0+cu113 -i https://pypi.tuna.tsinghua.edu.cn/simple
 ```
