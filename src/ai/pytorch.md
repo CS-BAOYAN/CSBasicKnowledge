@@ -38,7 +38,7 @@ conda install pytorch torchvision torchaudio cudatoolkit=10.2
 ```
 #### 指定版本
 ```
-conda install pytorch==1.10.0 torchvision==0.11.0 torchaudio==0.10.0 cudatoolkit=10.2
+conda install pytorch==2.4.0 torchvision==0.19.0 torchaudio==2.4 cudatoolkit=10.2
 ```
 
 ## Tutorial
