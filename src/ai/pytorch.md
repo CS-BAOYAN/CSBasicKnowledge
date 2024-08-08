@@ -1,6 +1,6 @@
 # PyTorch
 ## Installation
-### 根据OS和cuda版本查看适配的torch版本
+### 根据OS和cuda选择适配的torch版本
 https://pytorch.org/get-started/previous-versions/
 ### pip 
 ```
