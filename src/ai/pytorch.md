@@ -7,7 +7,7 @@ https://pytorch.org/get-started/previous-versions/
 ```
 pip install torch torchvision torchaudio -i https://pypi.tuna.tsinghua.edu.cn/simple
 ```
-#### 指定torch, cuda版本(preffered)
+#### 指定版本(preffered)
 创建名为pytorch310的虚拟环境
 ```
 conda create -n pytorch310 python==3.10
@@ -32,9 +32,13 @@ conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/m
 conda config --set show_channel_urls yes
 conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/pytorch/
 ```
-安装并指定cuda版本
+#### 安装最新版
 ```
-conda install pytorch torchvision cudatoolkit=10.2
+conda install pytorch torchvision torchaudio cudatoolkit=10.2
+```
+#### 指定版本
+```
+conda install pytorch==1.10.0 torchvision==0.11.0 torchaudio==0.10.0 cudatoolkit=10.2
 ```
 
 ## Tutorial
