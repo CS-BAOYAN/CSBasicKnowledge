@@ -1,4 +1,5 @@
 # PyTorch
+- 清华源安装 `pip install torch -i https://pypi.tuna.tsinghua.edu.cn/simple`
 - [pytorch examples](https://github.com/pytorch/examples)
 - [pytorch tutorials](https://github.com/pytorch/tutorials)
 - pytorch模型性能分析和优化: [weixin](https://mp.weixin.qq.com/s/lxJthBk1L2nYOyQyLbqqEw)
