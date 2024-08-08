@@ -1,5 +1,24 @@
 # PyTorch
-- 清华源安装 `pip install torch -i https://pypi.tuna.tsinghua.edu.cn/simple`
+## Installation
+### pip 
+```
+安装最新版
+pip install torch -i https://pypi.tuna.tsinghua.edu.cn/simple
+指定torch, cuda版本(preffered)
+pip install torch==1.10.0+cu113 torchvision==0.11.1+cu113 torchaudio===0.10.0+cu113 -i https://pypi.tuna.tsinghua.edu.cn/simple
+```
+### conda
+```
+添加清华镜像源
+conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/
+conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main/
+conda config --set show_channel_urls yes
+conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/pytorch/
+安装并指定cuda版本
+conda install pytorch torchvision cudatoolkit=10.2
+```
+
+## Tutorial
 - [pytorch examples](https://github.com/pytorch/examples)
 - [pytorch tutorials](https://github.com/pytorch/tutorials)
 - pytorch模型性能分析和优化: [weixin](https://mp.weixin.qq.com/s/lxJthBk1L2nYOyQyLbqqEw)
