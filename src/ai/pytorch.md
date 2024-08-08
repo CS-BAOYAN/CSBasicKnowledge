@@ -1,7 +1,7 @@
 # PyTorch
 ## Installation
-### 查看cuda版本
-https://blog.csdn.net/Kefenggewu_/article/details/117675079
+### 根据OS和cuda版本查看适配的torch版本
+https://pytorch.org/get-started/previous-versions/
 ### pip 
 ```
 安装最新版
