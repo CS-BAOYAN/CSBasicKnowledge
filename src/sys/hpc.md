@@ -11,6 +11,7 @@
   * CS149 并行计算(该课程与15-418一致) Lab：[[Github](https://github.com/stanford-cs149/asst1)]
   * HPC101 Lab：[[主页](https://www.zjusct.io/HPC101-Labs-2022/)]
 ### OpenMPI的安装
+> 更多内容可以查看：https://docs.open-mpi.org/en/v5.0.x/installing-open-mpi/quickstart.html
 1. OpenMPI的下载及解压: 在[OpenMPI官方主页](https://www-lb.open-mpi.org/software/ompi/v5.0/)找到合适版本的OpenMPI下载并解压
    ```shell
    wget https://download.open-mpi.org/release/open-mpi/v5.0/openmpi-5.0.5.tar.gz
