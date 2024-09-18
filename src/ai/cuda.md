@@ -13,15 +13,18 @@
   - 删除软连接
     ```shell
     cd /usr/local
-    ls -l cuda #查看cuda的软链接
+    ls -l cuda # 查看cuda的软链接
     sudo rm -rf cuda
     sudo ln -s /usr/local/cuda-10.0 /usr/local/cuda # 更换为对应的cuda
     ```
   - 添加环境变量
     ```shell
-    # 假设你使用的是bash，那么你需要打开.bashrc
-    export PATH="/usr/local/cuda-10.0/bin:$PATH"
-    export LD_LIBRARY_PATH="/usr/local/cuda-10.0/lib64:$LD_LIBRARY_PATH"
-    export CUDA_HOME=/usr/local/cuda
+    # 修改`/etc/profile`以做到多用户、多Shell解释器通用
+    sudo tee -a /etc/profile > /dev/null << 'EOF'
+    # CUDA
+    export PATH=${PATH}:/usr/local/cuda/bin
+    export LD_LIBRARY_PATH=${LD_LIBRARY_PATH}:/usr/local/cuda/lib64
+    export CUDA_HOME=/usr/local/cuda # 通过设置软链接`/usr/local/cuda`，可以做到多版本CUDA共存
+    EOF
     ```
-    在完成上述步骤后，你需要 source ~/.bashrc
+    在完成上述步骤后，你需要`source /etc/profile`刷新环境变量或者`reboot`重启
