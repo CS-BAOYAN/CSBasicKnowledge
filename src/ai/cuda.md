@@ -19,6 +19,16 @@
     ```
   - 添加环境变量
     ```shell
+    # 如果使用的是z-shell请替换`.bashrc`为`.zshrc`
+    tee -a ~/.bashrc > /dev/null << 'EOF'
+    # CUDA
+    export PATH=${PATH}:/usr/local/cuda/bin
+    export LD_LIBRARY_PATH=${LD_LIBRARY_PATH}:/usr/local/cuda/lib64
+    export CUDA_HOME=/usr/local/cuda # 通过设置软链接`/usr/local/cuda`，可以做到多版本CUDA共存
+    EOF
+    
+    # 或者
+    
     # 修改`/etc/profile`以做到多用户、多Shell解释器通用
     sudo tee -a /etc/profile > /dev/null << 'EOF'
     # CUDA
@@ -27,4 +37,4 @@
     export CUDA_HOME=/usr/local/cuda # 通过设置软链接`/usr/local/cuda`，可以做到多版本CUDA共存
     EOF
     ```
-    在完成上述步骤后，你需要`source /etc/profile`刷新环境变量或者`reboot`重启
+    在完成上述步骤后，你需要`source ~/.bashrc`(或`source /etc/profile`)刷新环境变量或者`reboot`重启
