@@ -5,3 +5,5 @@
 - Collection of advice for prospective and current PhD students: [[Github: en](https://github.com/pliang279/awesome-phd-advice)]
 - A Survival Guide to a PhD: [[en](https://karpathy.github.io/2016/09/07/phd/)]
 - [nlp-phd-global-equality](https://github.com/zhijing-jin/nlp-phd-global-equality): A repo for open resources & information for people to succeed in PhD in CS & career in AI / NLP
+- [The-PhD-Grind(“研”磨记)英文版](https://step-out.github.io/files/The-PhD-Grind.pdf)
+- [The-PhD-Grind(“研”磨记)中文版](https://step-out.github.io/files/phd-grind-chn.pdf)

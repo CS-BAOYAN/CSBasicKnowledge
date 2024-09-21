@@ -19,4 +19,3 @@
 - [清华大学计算机学科推荐学术会议和期刊列表 (TH-CPL)](https://github.com/bugaosuni59/TH-CPL)
 - [CSRankings](https://csrankings.org/): Computer Science Rankings 
 - [国家自然科学基金查询](https://kd.nsfc.gov.cn/resultInit)
-
