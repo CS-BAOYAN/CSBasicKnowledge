@@ -32,9 +32,10 @@
 - [Academic](./ac/ac.md)
   - [Academic常用知识](./ac/academic.md)
   - [Tenure-Track Asst. Professors and PhD students ](./ac/ap_phd.md)
+  - [(Special Issue)专业代码那些事儿](./ac/specialty_code.md)
 - [Writing](./writing/writing.md)
   - [CV & Resume](./writing/resume.md)
-  - [LaTeX & Markdown](./writing/latex.md)
+  - [LaTeX & Markdown](./writing/latex&markdown.md)
   - [Typst](./writing/typst.md)
 - [实用工具](./useful/useful.md)
   - [Linux](./useful/linux.md)
@@ -46,6 +47,8 @@
   - [Docker](./useful/docker.md)
 - [程序员指南](./programmer/programmer.md)
 - [MISC](./misc/misc.md) 
+- [软件开发](./develop/front.md)
+  - [Front End](./develop/front.md)
 
 ---
 

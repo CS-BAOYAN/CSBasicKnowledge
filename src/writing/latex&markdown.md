@@ -16,3 +16,8 @@
 
 # Markdown
 - [Markdown 基本语法](https://markdown.com.cn/basic-syntax/)
+- [Markdown 基本语法](https://github.com/guodongxiaren/README)：README文件语法解读，即Github Flavored Markdown语法介绍
+- [Github Star历史](https://star-history.com/)
+- [静态徽章绘制](https://shields.io/badges)
+- [Markdown emoji cheatsheet](https://www.webfx.com/tools/emoji-cheat-sheet/)
+- [moffee](https://github.com/BMPixel/moffee): moffee: Make Markdown Ready to Present

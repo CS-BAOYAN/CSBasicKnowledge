@@ -19,4 +19,6 @@
 - [清华大学计算机学科推荐学术会议和期刊列表 (TH-CPL)](https://github.com/bugaosuni59/TH-CPL)
 - [CSRankings](https://csrankings.org/): Computer Science Rankings 
 - [国家自然科学基金查询](https://kd.nsfc.gov.cn/resultInit)
-
+- [The-PhD-Grind(“研”磨记)英文版](https://step-out.github.io/files/The-PhD-Grind.pdf)
+- [The-PhD-Grind(“研”磨记)中文版](https://step-out.github.io/files/phd-grind-chn.pdf)
+- [对phd一年级新生有什么建议？](https://www.zhihu.com/question/32210068/answer/2786600114?utm_campaign=shareopn&utm_content=group1_Answer&utm_medium=social&utm_psn=1820616048568836096&utm_source=wechat_session)
