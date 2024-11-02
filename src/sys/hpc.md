@@ -10,6 +10,8 @@
 * Labs：
   * CS149 并行计算(该课程与15-418一致) Lab：[[Github](https://github.com/stanford-cs149/asst1)]
   * HPC101 Lab：[[主页](https://www.zjusct.io/HPC101-Labs-2022/)]
+* 其他资源：
+  * [Rolf Rabenseifner拓扑算子的一种仿真实现](https://github.com/Justjustifyjudge/repo4mpi.git)，根据Optimization of Collective Reduction Operations给出的拓扑图完成的不同逻辑拓扑的Allreduce算子。
 ### OpenMPI的安装
 > 更多内容可以查看：https://docs.open-mpi.org/en/v5.0.x/installing-open-mpi/quickstart.html
 1. OpenMPI的下载及解压: 在[OpenMPI官方主页](https://www-lb.open-mpi.org/software/ompi/v5.0/)找到合适版本的OpenMPI下载并解压

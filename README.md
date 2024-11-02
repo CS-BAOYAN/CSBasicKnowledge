@@ -30,7 +30,7 @@ Made with [contrib.rocks](https://contrib.rocks).
   - huggingface resources（包括如何换源/加速下载
   - dataset resources
   - NLP / CV / Audio / Recommendation System / Large Language Model
-  - 常见的tutorials
+  - 常见的tutorials，主要围绕有监督学习方向提供材料
   - prompts的使用
   - CUDA & NVIDIA
 - src/cg(computer graphics)：计算机图形学相关资料
