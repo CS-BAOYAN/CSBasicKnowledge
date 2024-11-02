@@ -3,6 +3,7 @@
 * 高性能计算学习路线：[[Github: zh-cn](https://heptagonhust.github.io/HPC-roadmap/)]
 * [高等数值分析（高性能计算，并行计算）](https://math.ecnu.edu.cn/~jypan/Teaching/ParaComp/): 华东师范大学高等数值分析（高性能计算，并行计算）
 * 超算习堂：[[zh-cn](https://www.easyhpc.net/)]
+* [UTAustinX UT.PHP.16.01xLAFF-On](https://learning.edx.org/course/course-v1:UTAustinX+UT.PHP.16.01x+1T2020/home) Programming for High Performance, 一个基于mpi编程的入门课程，可以作为高性能计算的入门课程，资料完善（视频、文档、字幕都很全），课后作业也很合适。
 * 并行计算课程：
   * CMU15-418 并行计算架构及编程：[[Bilibili](https://www.bilibili.com/video/BV1Xz4y1p7ZN)] [[课程主页](http://15418.courses.cs.cmu.edu/spring2016/lectures)]
   * 伯克利CS267 并行计算应用：[[Bilibili: en](https://www.bilibili.com/video/BV1qV411q7RS)] [[课程主页](https://sites.google.com/lbl.gov/cs267-spr2018/home)]
