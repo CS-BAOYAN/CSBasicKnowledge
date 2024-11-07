@@ -28,3 +28,52 @@
     Generating public/private rsa key pair.
     Enter file in which to save the key (/your_home_path/.ssh/id_rsa):
     ```
+- 下拉/提交远程仓库
+  - 查看远程仓库的信息：
+  ```bash
+  git remote -v
+  ```
+  可以看到远程仓库的名字和地址。
+  - 查看当前分支名：
+  ```bash
+  git branch
+  ```
+  可以看到当前代码分支的名字
+  - 从远程仓库下拉：
+  ```bash
+  git pull <远程仓库的名字/地址> <代码的分支名>
+  ```
+  - 冲突处理（苯人的笨方法）
+  ```bash
+  git pull <远程仓库的名字/地址> <代码的分支名> --allow-unrelated-histories
+  ```
+  然后使用
+  ```bash
+  git status
+  ```
+  查看冲突文件，手动解决冲突。
+  - 提交本地代码到远程仓库：
+  ```bash
+  git push <远程仓库的名字/地址> <代码的分支名>
+  ```
+  - 强制推送(苯人的笨方法，高风险，慎用)：
+  ```bash
+  git push -f <远程仓库的名字/地址> <代码的分支名>
+  ```
+  - 推送tags到远程仓库：
+  ```bash
+  git push --tags
+  ```
+  - 删除远程分支：
+  ```bash
+  git push origin --delete <分支名>
+  ```
+  - 同步本地分支到远程仓库：
+  ```bash
+  git push origin <本地分支名>:<远程分支名>
+  ```
+  - 同步远程分支到本地仓库：
+  ```bash
+  git checkout -b <本地分支名> <远程分支名>
+  ```
+
