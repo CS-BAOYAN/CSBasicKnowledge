@@ -3,6 +3,7 @@
 * 高性能计算学习路线：[[Github: zh-cn](https://heptagonhust.github.io/HPC-roadmap/)]
 * [高等数值分析（高性能计算，并行计算）](https://math.ecnu.edu.cn/~jypan/Teaching/ParaComp/): 华东师范大学高等数值分析（高性能计算，并行计算）
 * 超算习堂：[[zh-cn](https://www.easyhpc.net/)]
+* [UTAustinX UT.PHP.16.01xLAFF-On](https://learning.edx.org/course/course-v1:UTAustinX+UT.PHP.16.01x+1T2020/home) Programming for High Performance, 一个基于mpi编程的入门课程，可以作为高性能计算的入门课程，资料完善（视频、文档、字幕都很全），课后作业也很合适。
 * 并行计算课程：
   * CMU15-418 并行计算架构及编程：[[Bilibili](https://www.bilibili.com/video/BV1Xz4y1p7ZN)] [[课程主页](http://15418.courses.cs.cmu.edu/spring2016/lectures)]
   * 伯克利CS267 并行计算应用：[[Bilibili: en](https://www.bilibili.com/video/BV1qV411q7RS)] [[课程主页](https://sites.google.com/lbl.gov/cs267-spr2018/home)]
@@ -10,6 +11,8 @@
 * Labs：
   * CS149 并行计算(该课程与15-418一致) Lab：[[Github](https://github.com/stanford-cs149/asst1)]
   * HPC101 Lab：[[主页](https://www.zjusct.io/HPC101-Labs-2022/)]
+* 其他资源：
+  * [Rolf Rabenseifner拓扑算子的一种仿真实现](https://github.com/Justjustifyjudge/repo4mpi.git)，根据Optimization of Collective Reduction Operations给出的拓扑图完成的不同逻辑拓扑的Allreduce算子。
 ### OpenMPI的安装
 > 更多内容可以查看：https://docs.open-mpi.org/en/v5.0.x/installing-open-mpi/quickstart.html
 1. OpenMPI的下载及解压: 在[OpenMPI官方主页](https://www-lb.open-mpi.org/software/ompi/v5.0/)找到合适版本的OpenMPI下载并解压
